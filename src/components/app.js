@@ -1,11 +1,13 @@
 import React from 'react';
 
 export default React.createClass({
-  render: function () {
-    return (
-      <div>
-        Welcome to React!
-      </div>
-    );
-  }
-});
+    render: function() {
+        return (
+            <div>
+                <h1>Hello World</h1>
+                <p>This is some text</p>
+            </div>
+            );
+        }
+    });
+

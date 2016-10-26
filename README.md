@@ -1,4 +1,4 @@
-# TODON'T
+# DOs & DON'Ts
 
 This is a boilerplate repo for the Intro to React.js workshop.
 
